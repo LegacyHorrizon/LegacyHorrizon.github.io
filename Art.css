@@ -5,7 +5,7 @@ html {
 
 
 body.Homepage {
-  background-image: url("Homepage.jpg");
+  background-image: url("homepage.jpg");
   background-repeat: no-repeat;
   background-size:cover;
   margin: 0 auto;  
